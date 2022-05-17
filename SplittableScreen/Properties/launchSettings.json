@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SplittableScreen (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SplittableScreen (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
